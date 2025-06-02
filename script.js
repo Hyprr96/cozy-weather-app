@@ -1,4 +1,4 @@
-const apiKey = "na";
+const apiKey = "c0f21c7d54eb428892120742250206";
 const city = "Toronto";
 const url = `https://api.weatherapi.com/v1/forecast.json?key=${apiKey}&q=${city}&days=1&aqi=no`;
 
